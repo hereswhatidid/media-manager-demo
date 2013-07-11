@@ -1,0 +1,18 @@
+.media-chooser-demo td {
+	width: 50%;
+	vertical-align: top;
+}
+.media-chooser-demo textarea {
+	width: 100%;
+	height: 500px;
+}
+.media-chooser-demo .textfield {
+	width: 100%;
+}
+.media-chooser-demo .field-holder {
+	border: 1px solid #f00;
+	padding: 12px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
